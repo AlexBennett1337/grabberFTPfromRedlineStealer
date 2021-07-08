@@ -1,0 +1,28 @@
+{
+  "name": "grabber_ssh",
+  "version": "1.0.0",
+  "description": "Скрипт собирает ftp(ssh) из логов RedLine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexBennett1337/grabberFTPfromRedlineStealer.git"
+  },
+  "keywords": [
+    "RedLine",
+    "ssh",
+    "ftp"
+  ],
+  "author": "AlexBennett1337",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexBennett1337/grabberFTPfromRedlineStealer/issues"
+  },
+  "homepage": "https://github.com/AlexBennett1337/grabberFTPfromRedlineStealer#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "path": "^0.12.7"
+  }
+}
